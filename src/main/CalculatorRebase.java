@@ -3,7 +3,7 @@ package main;
 public class CalculatorRebase {
 
 	public static int add(int a, int b) {
-		return a + b + b + b;
+		return a + b;
 	}
 
 	public static int sub(int a, int b) {
